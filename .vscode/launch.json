@@ -64,7 +64,7 @@
       "runtimeVersion": "18",
       "serverReadyAction": {
         "action": "openExternally",
-        "pattern": "App listening to (http://.*?:[0-9]+)"
+        "pattern": "App listening to (http://newt.indexmdpp.workers.dev${cwd})"
       }
     }
   ]
